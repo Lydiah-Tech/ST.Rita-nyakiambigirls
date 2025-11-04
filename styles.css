@@ -191,7 +191,7 @@ nav ul li a.active::after {
     position: relative;
     height: 85vh;
     min-height: 500px;
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('assets/Nyakiambi.school.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('Nyakiambi.school.jpg') center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
